@@ -1,4 +1,4 @@
-# Nitro-Type-Bot
+# Nitro-Type-Bot ( Chromebook compatible)
 nitro type bot with auto reload enabled
 #STEPS TO INSTALL#
 1. Install Tampermonkey here - https://bit.ly/tampermonkeyinstaller
